@@ -1,0 +1,222 @@
+TDefault OpenCV
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052817B8C00000000000000AA
+t1384217484
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052670D9D000000000000044C
+t1382485405
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052670D9D00000000000001DB
+t1382485405
+s475
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp
+c0000000052CC9BFF000000000000011D
+t1389140991
+s285
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+c0000000052CC9D7200000000000000A7
+t1389141362
+s167
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+t1389141363
+s28860
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+t2
+s0
+
+N/usr/local/lib/libopencv_calib3d.2.4.7.dylib
+c0000000052CC9B2F0000000000097620
+t1389140783
+s620064
+
+N/usr/local/lib/libopencv_contrib.2.4.7.dylib
+c0000000052CC9B2F00000000000EFBB4
+t1389140783
+s981940
+
+N/usr/local/lib/libopencv_core.2.4.7.dylib
+c0000000052CC9B2F000000000021A7C8
+t1389140783
+s2205640
+
+N/usr/local/lib/libopencv_features2d.2.4.7.dylib
+c0000000052CC9B2F00000000000AEE18
+t1389140783
+s716312
+
+N/usr/local/lib/libopencv_flann.2.4.7.dylib
+c0000000052CC9B2F0000000000083D1C
+t1389140783
+s539932
+
+N/usr/local/lib/libopencv_gpu.2.4.7.dylib
+c0000000052CC9B2F0000000000023560
+t1389140783
+s144736
+
+N/usr/local/lib/libopencv_highgui.2.4.7.dylib
+c0000000052CC9B2F00000000002258EC
+t1389140783
+s2250988
+
+N/usr/local/lib/libopencv_imgproc.2.4.7.dylib
+c0000000052CC9B2F00000000001F7AD4
+t1389140783
+s2063060
+
+N/usr/local/lib/libopencv_legacy.2.4.7.dylib
+c0000000052CC9B2F00000000000FFE58
+t1389140783
+s1048152
+
+N/usr/local/lib/libopencv_ml.2.4.7.dylib
+c0000000052CC9B2F0000000000076FD8
+t1389140783
+s487384
+
+N/usr/local/lib/libopencv_nonfree.2.4.7.dylib
+c0000000052CC9B2F0000000000034718
+t1389140783
+s214808
+
+N/usr/local/lib/libopencv_objdetect.2.4.7.dylib
+c0000000052CC9B2F000000000007B9D0
+t1389140783
+s506320
+
+N/usr/local/lib/libopencv_ocl.2.4.7.dylib
+c0000000052CC9B2F00000000001B5978
+t1389140783
+s1792376
+
+N/usr/local/lib/libopencv_photo.2.4.7.dylib
+c0000000052CC9B2F000000000001FC60
+t1389140783
+s130144
+
+N/usr/local/lib/libopencv_stitching.2.4.7.dylib
+c0000000052CC9B2F00000000000857E0
+t1389140783
+s546784
+
+N/usr/local/lib/libopencv_superres.2.4.7.dylib
+c0000000052CC9B2F00000000000427BC
+t1389140783
+s272316
+
+N/usr/local/lib/libopencv_ts.a
+c0000000052CC9B2F0000000000126400
+t1389140783
+s1205248
+
+N/usr/local/lib/libopencv_video.2.4.7.dylib
+c0000000052CC9B2F000000000004BB20
+t1389140783
+s310048
+
+N/usr/local/lib/libopencv_videostab.2.4.7.dylib
+c0000000052CC9B2F00000000000340B8
+t1389140783
+s213176
+
+CBuild AST from /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies48a6bff2d47cb841^ed0dc2f2d47cb841^---0#1#1#--18"Check dependencies36"8FF6D01D-E4B8-47CB-9D9A-3E1DA7D16571-
+
+CCompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410834162.763357
+e410834163.079009
+r1
+xCompileC
+xDerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+x/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp222"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler1ac4c3f2d47cb841^193c14f3d47cb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/jonahjoselow/Desktop/Default%20OpenCV/Default%20OpenCV/main.cpp0000000000000000^3535"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jonahjoselow/Desktop/Default OpenCV"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-generated-files.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-own-target-headers.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-all-target-headers.hmap -iquote /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-project-headers.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources/x86_64 -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources -F/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug -MMD -MT dependencies -MF /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.dia -c /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp -o /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o36"22A01C22-D1F9-4542-8BE1-1A5F79A3BE85-
+bB2AFCF33-53C1-4BAB-9412-6FE3BC8EC735
+
+CLd /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64
+s410834163.079779
+e410834163.149093
+r1
+xLd
+x/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+xnormal
+xx86_64
+d/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+d/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+d/usr/local/lib/libopencv_calib3d.2.4.7.dylib
+d/usr/local/lib/libopencv_contrib.2.4.7.dylib
+d/usr/local/lib/libopencv_core.2.4.7.dylib
+d/usr/local/lib/libopencv_features2d.2.4.7.dylib
+d/usr/local/lib/libopencv_flann.2.4.7.dylib
+d/usr/local/lib/libopencv_gpu.2.4.7.dylib
+d/usr/local/lib/libopencv_highgui.2.4.7.dylib
+d/usr/local/lib/libopencv_imgproc.2.4.7.dylib
+d/usr/local/lib/libopencv_legacy.2.4.7.dylib
+d/usr/local/lib/libopencv_ml.2.4.7.dylib
+d/usr/local/lib/libopencv_nonfree.2.4.7.dylib
+d/usr/local/lib/libopencv_objdetect.2.4.7.dylib
+d/usr/local/lib/libopencv_ocl.2.4.7.dylib
+d/usr/local/lib/libopencv_photo.2.4.7.dylib
+d/usr/local/lib/libopencv_stitching.2.4.7.dylib
+d/usr/local/lib/libopencv_superres.2.4.7.dylib
+d/usr/local/lib/libopencv_ts.a
+d/usr/local/lib/libopencv_video.2.4.7.dylib
+d/usr/local/lib/libopencv_videostab.2.4.7.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Link /Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV81"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64897b14f3d47cb841^5a2b26f3d47cb841^---0#0#1#--2412"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64    cd "/Users/jonahjoselow/Desktop/Default OpenCV"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug -L/usr/local/lib -F/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug -filelist /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV.LinkFileList -mmacosx-version-min=10.9 -stdlib=libstdc++ -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_ts -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -Xlinker -dependency_info -Xlinker /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV_dependency_info.dat -o /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV36"F5346EB3-044B-4465-B5D8-929747D89B81-
+bB2AFCF33-53C1-4BAB-9412-6FE3BC8EC735
+

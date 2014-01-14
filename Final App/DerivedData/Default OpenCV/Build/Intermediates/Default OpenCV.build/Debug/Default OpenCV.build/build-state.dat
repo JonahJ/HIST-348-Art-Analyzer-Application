@@ -1,0 +1,1794 @@
+TDefault OpenCV
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_eye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt2.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_default.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_fullbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_fullbody.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_lefteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_lowerbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_leftear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_lefteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_mouth.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_nose.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_rightear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_righteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_profileface.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_profileface.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_righteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_smile.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_smile.xml
+cPBXCp Default\ OpenCV/haarcascades/haarcascade_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_upperbody.xml
+cPBXCp Default\ OpenCV/Images\ to\ Use/Figural/leonardo_st_anne_1510.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Giotto\ Jesus\ before\ Caif.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giotto\ Jesus\ before\ Caif.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/painting.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/painting.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/2u5cils.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/2u5cils.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/PompeiiWallArt.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/PompeiiWallArt.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Dead_Christ.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Dead_Christ.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/hde\ Vries.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/hde\ Vries.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Masaccio7_tribute\ money.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Masaccio7_tribute\ money.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/piero-della-francesca-ideal-city.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+cPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Última_Cena_-_Da_Vinci_5.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg
+cPBXCp Default\ OpenCV/Default_OpenCV.1 DerivedData/Default\ OpenCV/Build/Products/Debug/Default_OpenCV.1
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052817B8C00000000000000AA
+t1384217484
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052670D9D000000000000044C
+t1382485405
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052670D9D00000000000001DB
+t1382485405
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052670D9D000000000008B2C4
+t1382485405
+s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052670DA1000000000000681C
+t1382485409
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c0000000052670DA1000000000006E8B0
+t1382485409
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libstdc++.dylib
+c0000000052670DA100000000000A2A44
+t1382485409
+s666180
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052670DA10000000000004734
+t1382485409
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052670DA1000000000000FC6C
+t1382485409
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052670DA1000000000000F6A0
+t1382485409
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052670DA10000000000006254
+t1382485409
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052670DA1000000000000E0F8
+t1382485409
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052670DA1000000000000D6DC
+t1382485409
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c0000000052670DA10000000000006308
+t1382485409
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052670DA10000000000004050
+t1382485409
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c0000000052670DA10000000000008570
+t1382485409
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052670DA10000000000005EA0
+t1382485409
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052670DA10000000000005FAC
+t1382485409
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052670DA10000000000004440
+t1382485409
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052670DA1000000000000AA28
+t1382485409
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052670DA10000000000003E2C
+t1382485409
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052670DA10000000000030A24
+t1382485409
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052670DA10000000000005E54
+t1382485409
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052670DA10000000000006A90
+t1382485409
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052670DA100000000000178AC
+t1382485409
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052670DA1000000000001ADC8
+t1382485409
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052670DA1000000000001028C
+t1382485409
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052670DA10000000000008800
+t1382485409
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052670DA10000000000011090
+t1382485409
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052670DA1000000000000882C
+t1382485409
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052670DA100000000000067AC
+t1382485409
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052670DA10000000000008DEC
+t1382485409
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052670DA10000000000004C08
+t1382485409
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052670DA100000000000023C0
+t1382485409
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052670DA1000000000000439C
+t1382485409
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052670DA10000000000006768
+t1382485409
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c0000000052670DA100000000000172F4
+t1382485409
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c0000000052670DA60000000000001750
+t1382485414
+s5968
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Default_OpenCV.1
+c0000000052CC9BFF0000000000000C3D
+t1389140991
+s3133
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h
+c0000000052C9A9EF0000000000006FFB
+t1388947951
+s28667
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+c0000000052AB23CB0000000000035E7C
+t1386947531
+s220796
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Figural/leonardo_st_anne_1510.jpg
+c0000000052AB290F000000000001839D
+t1386948879
+s99229
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Intuitive/Giotto Jesus before Caif.jpg
+c0000000052AB20CA0000000000012E8F
+t1386946762
+s77455
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Intuitive/Pompeii/2u5cils.jpg
+c0000000052AB20480000000000011398
+t1386946632
+s70552
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Intuitive/Pompeii/PompeiiWallArt.jpg
+c0000000052AB20300000000000011E78
+t1386946608
+s73336
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg
+c0000000052AB204300000000000104A6
+t1386946627
+s66726
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg
+c0000000052AE3E4D0000000000017566
+t1387150925
+s95590
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Intuitive/painting.jpg
+c0000000052AB2870000000000016D7DC
+t1386948720
+s1497052
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+c0000000052AF015F0000000000167A95
+t1387200863
+s1473173
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/Dead_Christ.jpg
+c0000000052AEF7A8000000000005CBE6
+t1387198376
+s379878
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg
+c0000000052AF04AD0000000000030EBA
+t1387201709
+s200378
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/Masaccio7_tribute money.jpg
+c0000000052AB25FA00000000001ABD5E
+t1386948090
+s1752414
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/Última_Cena_-_Da_Vinci_5.jpg
+c0000000052AF04E6000000000064BF06
+t1387201766
+s6602502
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/hde Vries.jpg
+c0000000052AB3745000000000007642F
+t1386952517
+s484399
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/piero-della-francesca-ideal-city.jpg
+c0000000052AB29CA000000000002A61A
+t1386949066
+s173594
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Images to Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+c0000000052AB21130000000000080B21
+t1386946835
+s527137
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Line.h
+c0000000052CC8B5400000000000008FA
+t1389136724
+s2298
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp
+c0000000052CCAE60000000000000225E
+t1389145696
+s8798
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+c0000000052CCAE6200000000000000A9
+t1389145698
+s169
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+t1389145700
+s699672
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/2u5cils.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+t1389145360
+s1473173
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Dead_Christ.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+t1389145700
+s164664
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Default_OpenCV.1
+t1389145360
+s3133
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Giotto Jesus before Caif.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Masaccio7_tribute money.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/PompeiiWallArt.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/hde Vries.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/painting.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+c0000000052AF015F0000000000167A95
+t1387200863
+s1473173
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/Default_OpenCV.1
+c0000000052CC9BFF0000000000000C3D
+t1389140991
+s3133
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp
+c0000000052CCACE60000000000000402
+t1389145318
+s1026
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+c0000000052CC9D7200000000000000A7
+t1389141362
+s167
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+t1389145360
+s126784
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+t2
+s0
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+t1389145299
+s18940
+
+N/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default_OpenCV.1
+t2
+s0
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Default_OpenCV.1
+c0000000052CC9BFF0000000000000C3D
+t1389140991
+s3133
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+c0000000052AB23CB0000000000035E7C
+t1386947531
+s220796
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Figural/leonardo_st_anne_1510.jpg
+c0000000052AB290F000000000001839D
+t1386948879
+s99229
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Intuitive/Giotto Jesus before Caif.jpg
+c0000000052AB20CA0000000000012E8F
+t1386946762
+s77455
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Intuitive/Pompeii/2u5cils.jpg
+c0000000052AB20480000000000011398
+t1386946632
+s70552
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Intuitive/Pompeii/PompeiiWallArt.jpg
+c0000000052AB20300000000000011E78
+t1386946608
+s73336
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg
+c0000000052AB204300000000000104A6
+t1386946627
+s66726
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg
+c0000000052AE3E4D0000000000017566
+t1387150925
+s95590
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Intuitive/painting.jpg
+c0000000052AB2870000000000016D7DC
+t1386948720
+s1497052
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+c0000000052AF015F0000000000167A95
+t1387200863
+s1473173
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/Dead_Christ.jpg
+c0000000052AEF7A8000000000005CBE6
+t1387198376
+s379878
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg
+c0000000052AF04AD0000000000030EBA
+t1387201709
+s200378
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/Masaccio7_tribute money.jpg
+c0000000052AB25FA00000000001ABD5E
+t1386948090
+s1752414
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/Última_Cena_-_Da_Vinci_5.jpg
+c0000000052AF04E6000000000064BF06
+t1387201766
+s6602502
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/hde Vries.jpg
+c0000000052AB3745000000000007642F
+t1386952517
+s484399
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/piero-della-francesca-ideal-city.jpg
+c0000000052AB29CA000000000002A61A
+t1386949066
+s173594
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Images to Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+c0000000052AB21130000000000080B21
+t1386946835
+s527137
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_eye.xml
+c0000000052AE97E4000000000007B9CA
+t1387173860
+s506314
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+c0000000052AE97E4000000000010B57B
+t1387173860
+s1095035
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_frontalface_alt.xml
+c0000000052AE97E400000000000E093F
+t1387173860
+s919871
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_frontalface_alt2.xml
+c0000000052AE97E400000000000CC756
+t1387173860
+s837462
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml
+c0000000052AE97E40000000000379D5B
+t1387173860
+s3644763
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_frontalface_default.xml
+c0000000052AE97E4000000000013254D
+t1387173860
+s1254733
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_fullbody.xml
+c0000000052AE97E4000000000009B6EA
+t1387173860
+s636650
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_lefteye_2splits.xml
+c0000000052AE97E4000000000004EE9B
+t1387173860
+s323227
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_lowerbody.xml
+c0000000052AE97E40000000000081C29
+t1387173860
+s531497
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml
+c0000000052AE97E400000000000577F1
+t1387173860
+s358385
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml
+c0000000052AE97E4000000000006425C
+t1387173860
+s410204
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_leftear.xml
+c0000000052AE97E4000000000004C62D
+t1387173860
+s312877
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_lefteye.xml
+c0000000052AE97E400000000000BDDF9
+t1387173860
+s777721
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_mouth.xml
+c0000000052AE97E400000000000AFBBE
+t1387173860
+s719806
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_nose.xml
+c0000000052AE97E4000000000018303A
+t1387173860
+s1585210
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_rightear.xml
+c0000000052AE97E4000000000004F477
+t1387173860
+s324727
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_righteye.xml
+c0000000052AE97E40000000000151AC9
+t1387173860
+s1383113
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_mcs_upperbody.xml
+c0000000052AE97E40000000000173C31
+t1387173860
+s1522737
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_profileface.xml
+c0000000052AE97E40000000000112D01
+t1387173860
+s1125633
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_righteye_2splits.xml
+c0000000052AE97E4000000000004F3EA
+t1387173860
+s324586
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_smile.xml
+c0000000052AE97E40000000000044D53
+t1387173860
+s281939
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/haarcascades/haarcascade_upperbody.xml
+c0000000052AE97E400000000000FF773
+t1387173860
+s1046387
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp
+c0000000052D39742000000000000225E
+t1389598530
+s8798
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+c0000000052CCAEFE0000000000000109
+t1389145854
+s265
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+t1389670747
+s699960
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/2u5cils.jpg
+t1389145716
+s70552
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+t1389145360
+s1473173
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Dead_Christ.jpg
+t1389145716
+s379878
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+t1389145854
+s164760
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Default_OpenCV.1
+t1389145360
+s3133
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg
+t1389145716
+s200378
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Giotto Jesus before Caif.jpg
+t1389145716
+s77455
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Masaccio7_tribute money.jpg
+t1389145716
+s1752414
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+t1389145716
+s220796
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/PompeiiWallArt.jpg
+t1389145716
+s73336
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg
+t1389145716
+s66726
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg
+t1389145716
+s6602502
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_eye.xml
+t1389145854
+s506314
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml
+t1389145854
+s1095035
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml
+t1389145854
+s919871
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml
+t1389145854
+s837462
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml
+t1389145854
+s3644763
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml
+t1389145854
+s1254733
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_fullbody.xml
+t1389145854
+s636650
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml
+t1389145854
+s323227
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml
+t1389145854
+s531497
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml
+t1389145854
+s358385
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml
+t1389145854
+s410204
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml
+t1389145854
+s312877
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml
+t1389145854
+s777721
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml
+t1389145854
+s719806
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml
+t1389145854
+s1585210
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml
+t1389145854
+s324727
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml
+t1389145854
+s1383113
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml
+t1389145854
+s1522737
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_profileface.xml
+t1389145854
+s1125633
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml
+t1389145854
+s324586
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_smile.xml
+t1389145854
+s281939
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_upperbody.xml
+t1389145854
+s1046387
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/hde Vries.jpg
+t1389145716
+s484399
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg
+t1389145716
+s95590
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg
+t1389145716
+s99229
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/painting.jpg
+t1389145716
+s1497052
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg
+t1389145716
+s173594
+
+N/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+t1389145716
+s527137
+
+N/usr/local/include/opencv2/calib3d/calib3d.hpp
+c00000000527A519F0000000000009303
+t1383747999
+s37635
+
+N/usr/local/include/opencv2/contrib/contrib.hpp
+c00000000527A519F0000000000009647
+t1383747999
+s38471
+
+N/usr/local/include/opencv2/contrib/openfabmap.hpp
+c00000000527A519F0000000000003207
+t1383747999
+s12807
+
+N/usr/local/include/opencv2/contrib/retina.hpp
+c00000000527A519F0000000000005D96
+t1383747999
+s23958
+
+N/usr/local/include/opencv2/core/core.hpp
+c00000000527A519F000000000002D606
+t1383747999
+s185862
+
+N/usr/local/include/opencv2/core/core_c.h
+c00000000527A519F00000000000132A0
+t1383747999
+s78496
+
+N/usr/local/include/opencv2/core/mat.hpp
+c00000000527A519F0000000000013A6F
+t1383747999
+s80495
+
+N/usr/local/include/opencv2/core/operations.hpp
+c00000000527A519F0000000000020269
+t1383747999
+s131689
+
+N/usr/local/include/opencv2/core/types_c.h
+c00000000527A519F000000000000E07F
+t1383747999
+s57471
+
+N/usr/local/include/opencv2/core/version.hpp
+c00000000527A519F0000000000000BC5
+t1383747999
+s3013
+
+N/usr/local/include/opencv2/features2d/features2d.hpp
+c00000000527A519F000000000000F98A
+t1383747999
+s63882
+
+N/usr/local/include/opencv2/flann/config.h
+c00000000527A519F00000000000006FD
+t1383747999
+s1789
+
+N/usr/local/include/opencv2/flann/defines.h
+c00000000527A519F000000000000124B
+t1383747999
+s4683
+
+N/usr/local/include/opencv2/flann/miniflann.hpp
+c00000000527A519F0000000000001785
+t1383747999
+s6021
+
+N/usr/local/include/opencv2/highgui/highgui.hpp
+c00000000527A519F00000000000023CA
+t1383747999
+s9162
+
+N/usr/local/include/opencv2/highgui/highgui_c.h
+c00000000527A519F00000000000066C9
+t1383747999
+s26313
+
+N/usr/local/include/opencv2/imgproc/imgproc.hpp
+c00000000527A519F000000000000DBE5
+t1383747999
+s56293
+
+N/usr/local/include/opencv2/imgproc/imgproc_c.h
+c00000000527A519F000000000000767F
+t1383747999
+s30335
+
+N/usr/local/include/opencv2/imgproc/types_c.h
+c00000000527A519F0000000000004034
+t1383747999
+s16436
+
+N/usr/local/include/opencv2/ml/ml.hpp
+c00000000527A519F00000000000132A1
+t1383747999
+s78497
+
+N/usr/local/include/opencv2/objdetect/objdetect.hpp
+c00000000527A519F00000000000095A1
+t1383747999
+s38305
+
+N/usr/local/include/opencv2/opencv.hpp
+c00000000527A519F0000000000000ABF
+t1383747999
+s2751
+
+N/usr/local/include/opencv2/photo/photo.hpp
+c00000000527A519F0000000000000F9D
+t1383747999
+s3997
+
+N/usr/local/include/opencv2/photo/photo_c.h
+c00000000527A519F0000000000000A57
+t1383747999
+s2647
+
+N/usr/local/include/opencv2/video/background_segm.hpp
+c00000000527A519F0000000000002A72
+t1383747999
+s10866
+
+N/usr/local/include/opencv2/video/tracking.hpp
+c00000000527A519F00000000000047FF
+t1383747999
+s18431
+
+N/usr/local/include/opencv2/video/video.hpp
+c00000000527A519F0000000000000970
+t1383747999
+s2416
+
+N/usr/local/lib/libopencv_calib3d.2.4.7.dylib
+c0000000052CC9B2F0000000000097620
+t1389140783
+s620064
+
+N/usr/local/lib/libopencv_contrib.2.4.7.dylib
+c0000000052CC9B2F00000000000EFBB4
+t1389140783
+s981940
+
+N/usr/local/lib/libopencv_core.2.4.7.dylib
+c0000000052CC9B2F000000000021A7C8
+t1389140783
+s2205640
+
+N/usr/local/lib/libopencv_features2d.2.4.7.dylib
+c0000000052CC9B2F00000000000AEE18
+t1389140783
+s716312
+
+N/usr/local/lib/libopencv_flann.2.4.7.dylib
+c0000000052CC9B2F0000000000083D1C
+t1389140783
+s539932
+
+N/usr/local/lib/libopencv_gpu.2.4.7.dylib
+c0000000052CC9B2F0000000000023560
+t1389140783
+s144736
+
+N/usr/local/lib/libopencv_highgui.2.4.7.dylib
+c0000000052CC9B2F00000000002258EC
+t1389140783
+s2250988
+
+N/usr/local/lib/libopencv_imgproc.2.4.7.dylib
+c0000000052CC9B2F00000000001F7AD4
+t1389140783
+s2063060
+
+N/usr/local/lib/libopencv_legacy.2.4.7.dylib
+c0000000052CC9B2F00000000000FFE58
+t1389140783
+s1048152
+
+N/usr/local/lib/libopencv_ml.2.4.7.dylib
+c0000000052CC9B2F0000000000076FD8
+t1389140783
+s487384
+
+N/usr/local/lib/libopencv_nonfree.2.4.7.dylib
+c0000000052CC9B2F0000000000034718
+t1389140783
+s214808
+
+N/usr/local/lib/libopencv_objdetect.2.4.7.dylib
+c0000000052CC9B2F000000000007B9D0
+t1389140783
+s506320
+
+N/usr/local/lib/libopencv_ocl.2.4.7.dylib
+c0000000052CC9B2F00000000001B5978
+t1389140783
+s1792376
+
+N/usr/local/lib/libopencv_photo.2.4.7.dylib
+c0000000052CC9B2F000000000001FC60
+t1389140783
+s130144
+
+N/usr/local/lib/libopencv_stitching.2.4.7.dylib
+c0000000052CC9B2F00000000000857E0
+t1389140783
+s546784
+
+N/usr/local/lib/libopencv_superres.2.4.7.dylib
+c0000000052CC9B2F00000000000427BC
+t1389140783
+s272316
+
+N/usr/local/lib/libopencv_ts.a
+c0000000052CC9B2F0000000000126400
+t1389140783
+s1205248
+
+N/usr/local/lib/libopencv_video.2.4.7.dylib
+c0000000052CC9B2F000000000004BB20
+t1389140783
+s310048
+
+N/usr/local/lib/libopencv_videostab.2.4.7.dylib
+c0000000052CC9B2F00000000000340B8
+t1389140783
+s213176
+
+CBuild AST from /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp
+r0
+
+CBuild AST from /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/main.cpp
+r0
+
+CBuild AST from /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies95b6f0d9e884b841^4513f8d9e884b841^---0#1#1#--18"Check dependencies36"873BE27D-E516-44CE-AD5B-CA1A56BC2E8B-
+
+CCompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410838159.650050
+e410838160.322772
+r1
+xCompileC
+xDerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+x/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/core/core_c.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jonahjoselow/Desktop/Default OpenCV/Default OpenCV/main.cpp222"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerd178a68fe47cb841^6aa35290e47cb841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/jonahjoselow/Desktop/Default%20OpenCV/Default%20OpenCV/main.cpp0000000000000000^3517"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jonahjoselow/Desktop/Default OpenCV"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-generated-files.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-own-target-headers.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-all-target-headers.hmap -iquote /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-project-headers.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources/x86_64 -I/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources -F/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug -MMD -MT dependencies -MF /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.dia -c /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/main.cpp -o /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o36"79386050-4F2E-4F02-B891-A68326B3ECDF-
+b9C99814F-E269-4931-9A7B-2DA512EA0772
+
+CCompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s410838498.471673
+e410838500.119831
+r1
+xCompileC
+xDerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+x/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+d/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h
+d/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/Line.h
+oIn file included from /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp:21:
+o/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:416:26: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        int dataLength = datavector.size();
+o            ~~~~~~~~~~   ^~~~~~~~~~~~~~~~~
+o/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:532:64: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o                numberOfClusters = pointsOfIntersection.size() / 4;
+o                                 ~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+o/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:699:33: warning: unused variable 'y2' [-Wunused-variable]
+o        int x0, x1, x2, y0, y1, y2;
+o                                ^
+o/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:699:21: warning: unused variable 'x2' [-Wunused-variable]
+o        int x0, x1, x2, y0, y1, y2;
+o                    ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp222"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler03d078e2e57cb841^ebac1ee4e57cb841^-1113"In file included from /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp:21:/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:416:26: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        int dataLength = datavector.size();            ~~~~~~~~~~   ^~~~~~~~~~~~~~~~~/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:532:64: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]                numberOfClusters = pointsOfIntersection.size() / 4;                                 ~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:699:33: warning: unused variable 'y2' [-Wunused-variable]        int x0, x1, x2, y0, y1, y2;                                ^/Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/ImageHolder.h:699:21: warning: unused variable 'x2' [-Wunused-variable]        int x0, x1, x2, y0, y1, y2;                    ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@87"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'-410838500#18446744073709551615#0#1(2@94"In file included from /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp:21:-410838500#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@81"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^415#25#415#25#15925#0#22"Value Conversion Issue2(3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^415#25#415#42#15925#16#3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^415#12#415#22#15912#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-410838500#18446744073709551615#0#1(2@94"In file included from /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp:21:-410838500#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^531#63#531#63#20746#0#22"Value Conversion Issue2(3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^531#35#531#66#20718#30#3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^531#33#531#34#20716#0#-2@20"Unused variable 'y2'-410838500#18446744073709551615#0#1(2@94"In file included from /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp:21:-410838500#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^698#32#698#32#27841#0#19"Unused Entity Issue--2@20"Unused variable 'x2'-410838500#18446744073709551615#0#1(2@94"In file included from /Users/jonahjoselow/Desktop/Default OpenCV 2/Default OpenCV/main.cpp:21:-410838500#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/ImageHolder.h0000000000000000^698#20#698#20#27829#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@81"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/Default%20OpenCV/main.cpp0000000000000000^3555"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-generated-files.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-own-target-headers.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-all-target-headers.hmap -iquote /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-project-headers.hmap -I/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources/x86_64 -I/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources -F/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug -MMD -MT dependencies -MF /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.dia -c /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/main.cpp -o /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o36"18EC719B-50F0-475F-80FC-D4E149FAD803-
+b0FE3A9B2-3381-4AF4-A1CC-646F8F08DE07
+
+CCompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s411363545.973514
+e411363547.936481
+r1
+xCompileC
+xDerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+x/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+d/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h
+d/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/Line.h
+oIn file included from /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp:21:
+o/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:416:26: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o        int dataLength = datavector.size();
+o            ~~~~~~~~~~   ^~~~~~~~~~~~~~~~~
+o/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:532:64: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o                numberOfClusters = pointsOfIntersection.size() / 4;
+o                                 ~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+o/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:699:33: warning: unused variable 'y2' [-Wunused-variable]
+o        int x0, x1, x2, y0, y1, y2;
+o                                ^
+o/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:699:21: warning: unused variable 'x2' [-Wunused-variable]
+o        int x0, x1, x2, y0, y1, y2;
+o                    ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Compile /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp222"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera5bdf9d9e884b841^9db9efdbe884b841^-1593"In file included from /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp:21:/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:416:26: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        int dataLength = datavector.size();            ~~~~~~~~~~   ^~~~~~~~~~~~~~~~~/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:532:64: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]                numberOfClusters = pointsOfIntersection.size() / 4;                                 ~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:699:33: warning: unused variable 'y2' [-Wunused-variable]        int x0, x1, x2, y0, y1, y2;                                ^/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/ImageHolder.h:699:21: warning: unused variable 'x2' [-Wunused-variable]        int x0, x1, x2, y0, y1, y2;                    ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@87"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'-411363547#18446744073709551615#0#1(2@190"In file included from /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp:21:-411363547#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@203"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^415#25#415#25#15925#0#22"Value Conversion Issue2(3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^415#25#415#42#15925#16#3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^415#12#415#22#15912#0#-2@69"Implicit conversion loses integer precision: 'unsigned long' to 'int'-411363547#18446744073709551615#0#1(2@190"In file included from /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp:21:-411363547#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@203"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^531#63#531#63#20746#0#22"Value Conversion Issue2(3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^531#35#531#66#20718#30#3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^531#33#531#34#20716#0#-2@20"Unused variable 'y2'-411363547#18446744073709551615#0#1(2@190"In file included from /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp:21:-411363547#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@203"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^698#32#698#32#27841#0#19"Unused Entity Issue--2@20"Unused variable 'x2'-411363547#18446744073709551615#0#1(2@190"In file included from /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/Default OpenCV/main.cpp:21:-411363547#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@203"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/main.cpp0000000000000000^20#9#20#9#525#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@208"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/ImageHolder.h0000000000000000^698#20#698#20#27829#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@203"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/Default%20OpenCV/main.cpp0000000000000000^4959"CompileC DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o Default\ OpenCV/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-generated-files.hmap -I/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-own-target-headers.hmap -I/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-all-target-headers.hmap -iquote /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Default\ OpenCV-project-headers.hmap -I/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources/x86_64 -I/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/DerivedSources -F/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug -MMD -MT dependencies -MF /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.dia -c /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/main.cpp -o /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/main.o36"1FAC9C8B-83E7-4BEA-8C0F-E7972E8B6104-
+bEF7BA759-62D0-44EE-8ED5-DAEEC2F50801
+
+CLd /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64
+s410838160.323921
+e410838160.350494
+r1
+xLd
+x/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+xnormal
+xx86_64
+d/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+d/Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+d/usr/local/lib/libopencv_calib3d.2.4.7.dylib
+d/usr/local/lib/libopencv_contrib.2.4.7.dylib
+d/usr/local/lib/libopencv_core.2.4.7.dylib
+d/usr/local/lib/libopencv_features2d.2.4.7.dylib
+d/usr/local/lib/libopencv_flann.2.4.7.dylib
+d/usr/local/lib/libopencv_gpu.2.4.7.dylib
+d/usr/local/lib/libopencv_highgui.2.4.7.dylib
+d/usr/local/lib/libopencv_imgproc.2.4.7.dylib
+d/usr/local/lib/libopencv_legacy.2.4.7.dylib
+d/usr/local/lib/libopencv_ml.2.4.7.dylib
+d/usr/local/lib/libopencv_nonfree.2.4.7.dylib
+d/usr/local/lib/libopencv_objdetect.2.4.7.dylib
+d/usr/local/lib/libopencv_ocl.2.4.7.dylib
+d/usr/local/lib/libopencv_photo.2.4.7.dylib
+d/usr/local/lib/libopencv_stitching.2.4.7.dylib
+d/usr/local/lib/libopencv_superres.2.4.7.dylib
+d/usr/local/lib/libopencv_ts.a
+d/usr/local/lib/libopencv_video.2.4.7.dylib
+d/usr/local/lib/libopencv_videostab.2.4.7.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Link /Users/jonahjoselow/Desktop/Default OpenCV/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV81"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64c6fa5290e47cb841^d4ba5990e47cb841^---0#0#1#--2394"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64    cd "/Users/jonahjoselow/Desktop/Default OpenCV"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug -L/usr/local/lib -F/Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug -filelist /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV.LinkFileList -mmacosx-version-min=10.9 -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_ts -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -Xlinker -dependency_info -Xlinker /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV_dependency_info.dat -o /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV36"380ACDEF-895A-4CA1-BE05-17BECDE8F7C0-
+b9C99814F-E269-4931-9A7B-2DA512EA0772
+
+CLd /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64
+s410838500.120604
+e410838500.239762
+r1
+xLd
+x/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+xnormal
+xx86_64
+d/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+d/Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/usr/local/lib/libopencv_calib3d.2.4.7.dylib
+d/usr/local/lib/libopencv_contrib.2.4.7.dylib
+d/usr/local/lib/libopencv_core.2.4.7.dylib
+d/usr/local/lib/libopencv_features2d.2.4.7.dylib
+d/usr/local/lib/libopencv_flann.2.4.7.dylib
+d/usr/local/lib/libopencv_gpu.2.4.7.dylib
+d/usr/local/lib/libopencv_highgui.2.4.7.dylib
+d/usr/local/lib/libopencv_imgproc.2.4.7.dylib
+d/usr/local/lib/libopencv_legacy.2.4.7.dylib
+d/usr/local/lib/libopencv_ml.2.4.7.dylib
+d/usr/local/lib/libopencv_nonfree.2.4.7.dylib
+d/usr/local/lib/libopencv_objdetect.2.4.7.dylib
+d/usr/local/lib/libopencv_ocl.2.4.7.dylib
+d/usr/local/lib/libopencv_photo.2.4.7.dylib
+d/usr/local/lib/libopencv_stitching.2.4.7.dylib
+d/usr/local/lib/libopencv_superres.2.4.7.dylib
+d/usr/local/lib/libopencv_ts.a
+d/usr/local/lib/libopencv_video.2.4.7.dylib
+d/usr/local/lib/libopencv_videostab.2.4.7.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/jonahjoselow/Desktop/Default OpenCV 2/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV81"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_6438f41ee4e57cb841^70613de4e57cb841^---0#0#1#--2435"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug -L/usr/local/lib -F/Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug -filelist /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV.LinkFileList -mmacosx-version-min=10.9 -framework CoreGraphics -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_ts -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -Xlinker -dependency_info -Xlinker /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV_dependency_info.dat -o /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV36"485E477F-6EEA-432E-9705-FEA6F4982A42-
+b0FE3A9B2-3381-4AF4-A1CC-646F8F08DE07
+
+CLd /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64
+s411363547.942808
+e411363548.031794
+r1
+xLd
+x/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV
+xnormal
+xx86_64
+d/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/Default OpenCV.LinkFileList
+d/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Intermediates/Default OpenCV.build/Debug/Default OpenCV.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/usr/local/lib/libopencv_calib3d.2.4.7.dylib
+d/usr/local/lib/libopencv_contrib.2.4.7.dylib
+d/usr/local/lib/libopencv_core.2.4.7.dylib
+d/usr/local/lib/libopencv_features2d.2.4.7.dylib
+d/usr/local/lib/libopencv_flann.2.4.7.dylib
+d/usr/local/lib/libopencv_gpu.2.4.7.dylib
+d/usr/local/lib/libopencv_highgui.2.4.7.dylib
+d/usr/local/lib/libopencv_imgproc.2.4.7.dylib
+d/usr/local/lib/libopencv_legacy.2.4.7.dylib
+d/usr/local/lib/libopencv_ml.2.4.7.dylib
+d/usr/local/lib/libopencv_nonfree.2.4.7.dylib
+d/usr/local/lib/libopencv_objdetect.2.4.7.dylib
+d/usr/local/lib/libopencv_ocl.2.4.7.dylib
+d/usr/local/lib/libopencv_photo.2.4.7.dylib
+d/usr/local/lib/libopencv_stitching.2.4.7.dylib
+d/usr/local/lib/libopencv_superres.2.4.7.dylib
+d/usr/local/lib/libopencv_ts.a
+d/usr/local/lib/libopencv_video.2.4.7.dylib
+d/usr/local/lib/libopencv_videostab.2.4.7.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"Link /Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed/DerivedData/Default OpenCV/Build/Products/Debug/Default OpenCV81"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_648b6ef1dbe884b841^1c2408dce884b841^---0#0#1#--3076"Ld DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV normal x86_64    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug -L/usr/local/lib -F/Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug -filelist /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV.LinkFileList -mmacosx-version-min=10.9 -framework CoreGraphics -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_calib3d.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_contrib.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_core.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_features2d.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_flann.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_gpu.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_highgui.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_imgproc.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_legacy.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_ml.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_nonfree.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_objdetect.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_ocl.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_photo.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_stitching.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_superres.2.4.7 -lopencv_ts -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_video.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -lopencv_videostab.2.4.7 -Xlinker -dependency_info -Xlinker /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Intermediates/Default\ OpenCV.build/Debug/Default\ OpenCV.build/Objects-normal/x86_64/Default\ OpenCV_dependency_info.dat -o /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug/Default\ OpenCV36"166E617D-9331-4F4F-A3E9-B5D420720B61-
+bEF7BA759-62D0-44EE-8ED5-DAEEC2F50801
+
+CPBXCp Default\ OpenCV/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+s410838160.351114
+e410838160.353114
+r1
+xPBXCp
+xDefault OpenCV/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Copy DerivedData/Default OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg264"PBXCp Default\ OpenCV/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg5ff05990e47cb841^88665a90e47cb841^---0#0#1#-19%DVTDocumentLocation2@198"file:///Users/jonahjoselow/Desktop/Default%20OpenCV/DerivedData/Default%20OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg0034342fddffdf42^679"PBXCp Default\ OpenCV/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug36"AB84596A-410D-4D97-90EE-D774A7C36140-
+b9C99814F-E269-4931-9A7B-2DA512EA0772
+
+CPBXCp Default\ OpenCV/Default_OpenCV.1 DerivedData/Default\ OpenCV/Build/Products/Debug/Default_OpenCV.1
+s410838160.351252
+e410838160.352310
+r1
+xPBXCp
+xDefault OpenCV/Default_OpenCV.1
+xDerivedData/Default OpenCV/Build/Products/Debug/Default_OpenCV.1
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy DerivedData/Default OpenCV/Build/Products/Debug/Default_OpenCV.1104"PBXCp Default\ OpenCV/Default_OpenCV.1 DerivedData/Default\ OpenCV/Build/Products/Debug/Default_OpenCV.15af55990e47cb841^d7315a90e47cb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/jonahjoselow/Desktop/Default%20OpenCV/DerivedData/Default%20OpenCV/Build/Products/Debug/Default_OpenCV.10034342fddffdf42^439"PBXCp Default\ OpenCV/Default_OpenCV.1 DerivedData/Default\ OpenCV/Build/Products/Debug/Default_OpenCV.1    cd "/Users/jonahjoselow/Desktop/Default OpenCV"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV/Default\ OpenCV/Default_OpenCV.1 /Users/jonahjoselow/Desktop/Default\ OpenCV/DerivedData/Default\ OpenCV/Build/Products/Debug36"4F917654-0EEA-4724-8662-05CA719AB4DF-
+b9C99814F-E269-4931-9A7B-2DA512EA0772
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+s410838516.005995
+e410838516.009045
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/Default OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg200"PBXCp Default\ OpenCV/Images\ to\ Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpgaf9401f4e57cb841^17f002f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@158"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg0034342fddffdf42^603"PBXCp Default\ OpenCV/Images\ to\ Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Figural/Michelangelo,_paolina,_martirio_di_san_pietro_01.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"457ACC59-A657-4CB5-9003-3B59F708B38D-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Figural/leonardo_st_anne_1510.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg
+s410838516.005906
+e410838516.008330
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Figural/leonardo_st_anne_1510.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Default OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg146"PBXCp Default\ OpenCV/Images\ to\ Use/Figural/leonardo_st_anne_1510.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg0c9301f4e57cb841^29e802f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg0034342fddffdf42^522"PBXCp Default\ OpenCV/Images\ to\ Use/Figural/leonardo_st_anne_1510.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/leonardo_st_anne_1510.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Figural/leonardo_st_anne_1510.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"7C639F04-08EF-4FB0-AF03-99A892A5D610-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Giotto\ Jesus\ before\ Caif.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giotto\ Jesus\ before\ Caif.jpg
+s410838516.006131
+e410838516.008390
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Intuitive/Giotto Jesus before Caif.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Giotto Jesus before Caif.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Default OpenCV/Build/Products/Debug/Giotto Jesus before Caif.jpg160"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Giotto\ Jesus\ before\ Caif.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giotto\ Jesus\ before\ Caif.jpg6f9f01f4e57cb841^fbea02f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/Giotto%20Jesus%20before%20Caif.jpg0034342fddffdf42^544"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Giotto\ Jesus\ before\ Caif.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giotto\ Jesus\ before\ Caif.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Intuitive/Giotto\ Jesus\ before\ Caif.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"124EB9BF-15B8-464A-A5DF-A164BB7405D4-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/2u5cils.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/2u5cils.jpg
+s410838516.008545
+e410838516.068995
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Intuitive/Pompeii/2u5cils.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/2u5cils.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy DerivedData/Default OpenCV/Build/Products/Debug/2u5cils.jpg128"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/2u5cils.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/2u5cils.jpgb84002f4e57cb841^5cab11f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/2u5cils.jpg0034342fddffdf42^500"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/2u5cils.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/2u5cils.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/2u5cils.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"5545A16D-896E-48BB-92A7-EEF1F13BCF79-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/PompeiiWallArt.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/PompeiiWallArt.jpg
+s410838516.009367
+e410838516.069504
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Intuitive/Pompeii/PompeiiWallArt.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/PompeiiWallArt.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy DerivedData/Default OpenCV/Build/Products/Debug/PompeiiWallArt.jpg142"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/PompeiiWallArt.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/PompeiiWallArt.jpgf86f02f4e57cb841^68cb11f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/PompeiiWallArt.jpg0034342fddffdf42^521"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/PompeiiWallArt.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/PompeiiWallArt.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/PompeiiWallArt.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"82F63BC8-D9AD-4CBB-AFE2-6B21CE64B20F-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg
+s410838516.008751
+e410838516.069320
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy DerivedData/Default OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg150"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpgad4e02f4e57cb841^9cbf11f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg0034342fddffdf42^533"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Pompeii_Fresco_001.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Intuitive/Pompeii/Pompeii_Fresco_001.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"7B4844E6-E2B0-4874-85A1-D955AB751D1B-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg
+s410838516.006384
+e410838516.008616
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/Default OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg184"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg57b001f4e57cb841^89ed02f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg0034342fddffdf42^580"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/lascaux-top-10-historical-finds-555x400.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Intuitive/lascaux-top-10-historical-finds-555x400.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"A91C23E8-179D-4AF9-9812-09EE18284876-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/painting.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/painting.jpg
+s410838516.008532
+e410838516.125069
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Intuitive/painting.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/painting.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy DerivedData/Default OpenCV/Build/Products/Debug/painting.jpg122"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/painting.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/painting.jpg854002f4e57cb841^301020f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/painting.jpg0034342fddffdf42^487"PBXCp Default\ OpenCV/Images\ to\ Use/Intuitive/painting.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/painting.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Intuitive/painting.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"EF6F799C-DAE7-4025-B870-800A9AEBA89B-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Cappella_brancacci,_Guarigione_dello_storpio_e_resurrezione_di_Tabita_(restaurato),_Masolino.jpg
+r0
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Dead_Christ.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Dead_Christ.jpg
+s410838516.069182
+e410838516.125060
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/Dead_Christ.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Dead_Christ.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy DerivedData/Default OpenCV/Build/Products/Debug/Dead_Christ.jpg125"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Dead_Christ.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Dead_Christ.jpg37c711f4e57cb841^e10a20f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/Dead_Christ.jpg0034342fddffdf42^490"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Dead_Christ.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Dead_Christ.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/Dead_Christ.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"173D5A1E-14F4-4EA7-8124-DFB859C04299-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg
+s410838516.069571
+e410838516.072481
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Default OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg167"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpgbede11f4e57cb841^5c8f12f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg0034342fddffdf42^553"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Giampietrino-Last-Supper-ca-1520.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/Giampietrino-Last-Supper-ca-1520.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"3180FC47-05B5-43FB-A6C5-8BD40F22ED60-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Masaccio7_tribute\ money.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Masaccio7_tribute\ money.jpg
+s410838516.072606
+e410838516.224094
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/Masaccio7_tribute money.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Masaccio7_tribute money.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Default OpenCV/Build/Products/Debug/Masaccio7_tribute money.jpg151"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Masaccio7_tribute\ money.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Masaccio7_tribute\ money.jpgcf9f12f4e57cb841^047239f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/Masaccio7_tribute%20money.jpg0034342fddffdf42^529"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Masaccio7_tribute\ money.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Masaccio7_tribute\ money.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/Masaccio7_tribute\ money.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"465673FA-86D0-4BB7-A433-88E0E830FF7C-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/Última_Cena_-_Da_Vinci_5.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg
+s410838516.125275
+e410838516.224069
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/Última_Cena_-_Da_Vinci_5.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Default OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg155"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Última_Cena_-_Da_Vinci_5.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpgb42020f4e57cb841^9e5e39f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/U%CC%81ltima_Cena_-_Da_Vinci_5.jpg0034342fddffdf42^535"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/Última_Cena_-_Da_Vinci_5.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/Última_Cena_-_Da_Vinci_5.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/Última_Cena_-_Da_Vinci_5.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"26F0CD12-5F14-4189-8C69-A07CCBF2BBA4-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/hde\ Vries.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/hde\ Vries.jpg
+s410838516.069672
+e410838516.125050
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/hde Vries.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/hde Vries.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy DerivedData/Default OpenCV/Build/Products/Debug/hde Vries.jpg123"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/hde\ Vries.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/hde\ Vries.jpg4ce111f4e57cb841^080620f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/hde%20Vries.jpg0034342fddffdf42^487"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/hde\ Vries.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/hde\ Vries.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/hde\ Vries.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"6BA19D35-4B6E-4212-B0E8-1B481D40FC1C-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/piero-della-francesca-ideal-city.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg
+s410838516.125265
+e410838516.224070
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/piero-della-francesca-ideal-city.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Default OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg167"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/piero-della-francesca-ideal-city.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg572220f4e57cb841^5e6539f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg0034342fddffdf42^553"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/piero-della-francesca-ideal-city.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/piero-della-francesca-ideal-city.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/piero-della-francesca-ideal-city.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"19EF1572-3759-4329-AC7D-D4DEA09F6CD7-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/Images\ to\ Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+s410838516.125272
+e410838516.224077
+r1
+xPBXCp
+xDefault OpenCV/Images to Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+xDerivedData/Default OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Copy DerivedData/Default OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg283"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpge62020f4e57cb841^126b39f4e57cb841^---0#0#1#-19%DVTDocumentLocation2@200"file:///Users/jonahjoselow/Desktop/Default%20OpenCV%202/DerivedData/Default%20OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg0034342fddffdf42^727"PBXCp Default\ OpenCV/Images\ to\ Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg DerivedData/Default\ OpenCV/Build/Products/Debug/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg    cd "/Users/jonahjoselow/Desktop/Default OpenCV 2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/Default\ OpenCV/Images\ to\ Use/Linear/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg /Users/jonahjoselow/Desktop/Default\ OpenCV\ 2/DerivedData/Default\ OpenCV/Build/Products/Debug36"80E1D060-9A55-40A0-9840-787C0EF7FC4A-
+b2762D625-FB2C-4543-80F9-A4F0F17B244F
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_eye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye.xml
+s410838654.542605
+e410838654.570256
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_eye.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_eye.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_eye.xml123"PBXCp Default\ OpenCV/haarcascades/haarcascade_eye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye.xml48fc8a7ee67cb841^7e00927ee67cb841^---0#0#1#-19%DVTDocumentLocation2@247"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_eye.xml0034342fddffdf42^796"PBXCp Default\ OpenCV/haarcascades/haarcascade_eye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_eye.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"059521F8-E335-4258-9464-7CFDC5923ED5-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml
+s410838654.542792
+e410838654.598443
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml155"PBXCp Default\ OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml14048b7ee67cb841^7236997ee67cb841^---0#0#1#-19%DVTDocumentLocation2@263"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml0034342fddffdf42^844"PBXCp Default\ OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_eye_tree_eyeglasses.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"E726DBE0-FFB0-4D53-ACF9-99F0C9591A43-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml
+s410838654.542998
+e410838654.597536
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_frontalface_alt.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml147"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xmlb20e8b7ee67cb841^65fb987ee67cb841^---0#0#1#-19%DVTDocumentLocation2@259"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml0034342fddffdf42^832"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_frontalface_alt.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"745C4528-B222-4767-82BC-26C5931A8EE6-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt2.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml
+s410838654.543354
+e410838654.627454
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_frontalface_alt2.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml149"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt2.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml992b8b7ee67cb841^50c6a07ee67cb841^---0#0#1#-19%DVTDocumentLocation2@260"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml0034342fddffdf42^835"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt2.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt2.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_frontalface_alt2.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"5E808241-2AF7-4166-A9F0-1239125B1042-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml
+s410838654.543937
+e410838654.627249
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml157"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xmlc74b8b7ee67cb841^b797a07ee67cb841^---0#0#1#-19%DVTDocumentLocation2@264"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml0034342fddffdf42^847"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_alt_tree.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_frontalface_alt_tree.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"79F44D4F-E4C9-40A1-9153-6FDE712B428D-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_default.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml
+s410838654.570411
+e410838654.628886
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_frontalface_default.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml155"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_default.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml2219927ee67cb841^7c0da17ee67cb841^---0#0#1#-19%DVTDocumentLocation2@263"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml0034342fddffdf42^844"PBXCp Default\ OpenCV/haarcascades/haarcascade_frontalface_default.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_frontalface_default.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_frontalface_default.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"56BC044E-5542-400E-B523-4906C8078BCB-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_fullbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_fullbody.xml
+s410838654.598025
+e410838654.628008
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_fullbody.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_fullbody.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_fullbody.xml133"PBXCp Default\ OpenCV/haarcascades/haarcascade_fullbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_fullbody.xmla73d997ee67cb841^ccd0a07ee67cb841^---0#0#1#-19%DVTDocumentLocation2@252"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_fullbody.xml0034342fddffdf42^811"PBXCp Default\ OpenCV/haarcascades/haarcascade_fullbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_fullbody.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_fullbody.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"816ED411-8E9F-4B15-B58D-68205D89FDAF-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_lefteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml
+s410838654.598285
+e410838654.628225
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_lefteye_2splits.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml147"PBXCp Default\ OpenCV/haarcascades/haarcascade_lefteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml374f997ee67cb841^67f3a07ee67cb841^---0#0#1#-19%DVTDocumentLocation2@259"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml0034342fddffdf42^832"PBXCp Default\ OpenCV/haarcascades/haarcascade_lefteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lefteye_2splits.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_lefteye_2splits.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"365C578A-BF90-424A-B74A-80F5056757FA-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_lowerbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml
+s410838654.599238
+e410838654.628417
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_lowerbody.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml135"PBXCp Default\ OpenCV/haarcascades/haarcascade_lowerbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml6074997ee67cb841^76fba07ee67cb841^---0#0#1#-19%DVTDocumentLocation2@253"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml0034342fddffdf42^814"PBXCp Default\ OpenCV/haarcascades/haarcascade_lowerbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_lowerbody.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_lowerbody.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"AC26C8B6-3822-4555-A96B-6497359D1828-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml
+s410838654.627984
+e410838654.629696
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml147"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml61e1a07ee67cb841^a33ea17ee67cb841^---0#0#1#-19%DVTDocumentLocation2@259"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml0034342fddffdf42^832"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_big.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_big.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"C25D5D46-E308-40D3-A15E-ADC3881F2152-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml
+s410838654.628066
+e410838654.629918
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml151"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xmlcae0a07ee67cb841^274fa17ee67cb841^---0#0#1#-19%DVTDocumentLocation2@261"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml0034342fddffdf42^838"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_eyepair_small.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_eyepair_small.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"29646812-19B9-40FF-BF51-A1C4589FE4E3-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_leftear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml
+s410838654.628695
+e410838654.630135
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_leftear.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml139"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_leftear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml1d04a17ee67cb841^5055a17ee67cb841^---0#0#1#-19%DVTDocumentLocation2@255"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml0034342fddffdf42^820"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_leftear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_leftear.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_leftear.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"964B23BA-4FB7-4B49-9D84-252E43D6C65E-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_lefteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml
+s410838654.629245
+e410838654.660045
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_lefteye.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml139"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_lefteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml2638a17ee67cb841^04fea87ee67cb841^---0#0#1#-19%DVTDocumentLocation2@255"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml0034342fddffdf42^820"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_lefteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_lefteye.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_lefteye.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"1E4797B6-AE87-4994-9925-C7F7DB8325FF-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_mouth.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml
+s410838654.629544
+e410838654.659987
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_mouth.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml135"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_mouth.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xmlde3ca17ee67cb841^e4f5a87ee67cb841^---0#0#1#-19%DVTDocumentLocation2@253"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml0034342fddffdf42^814"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_mouth.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_mouth.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_mouth.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"EF29CF14-CE8B-4F02-8C3A-C6280C6214EE-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_nose.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml
+s410838654.630137
+e410838654.701239
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_nose.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml133"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_nose.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml9a5fa17ee67cb841^b08eb37ee67cb841^---0#0#1#-19%DVTDocumentLocation2@252"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml0034342fddffdf42^811"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_nose.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_nose.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_nose.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"4186E918-A9CD-4FBF-BFCD-DEB41EADD024-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_rightear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml
+s410838654.630428
+e410838654.701339
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_rightear.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml141"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_rightear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xmlb570a17ee67cb841^ab97b37ee67cb841^---0#0#1#-19%DVTDocumentLocation2@256"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml0034342fddffdf42^823"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_rightear.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_rightear.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_rightear.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"295D006C-177D-4411-849C-A6FE0B587819-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_righteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml
+s410838654.630611
+e410838654.728084
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_righteye.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml141"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_righteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xmlf983a17ee67cb841^946bba7ee67cb841^---0#0#1#-19%DVTDocumentLocation2@256"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml0034342fddffdf42^823"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_righteye.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_righteye.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_righteye.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"C77B8038-BED6-40C0-9AA9-4E490E93BB91-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml
+s410838654.630903
+e410838654.793682
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_mcs_upperbody.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml143"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml7c9ca17ee67cb841^db33cb7ee67cb841^---0#0#1#-19%DVTDocumentLocation2@257"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml0034342fddffdf42^826"PBXCp Default\ OpenCV/haarcascades/haarcascade_mcs_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_mcs_upperbody.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_mcs_upperbody.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"6D8580B2-FF59-4095-A189-FE7A4D265680-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_profileface.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_profileface.xml
+s410838654.631861
+e410838654.756767
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_profileface.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_profileface.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_profileface.xml139"PBXCp Default\ OpenCV/haarcascades/haarcascade_profileface.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_profileface.xml08caa17ee67cb841^17bbc17ee67cb841^---0#0#1#-19%DVTDocumentLocation2@255"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_profileface.xml0034342fddffdf42^820"PBXCp Default\ OpenCV/haarcascades/haarcascade_profileface.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_profileface.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_profileface.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"02F81AFF-A844-4E32-8449-62AE497BE487-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_righteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml
+s410838654.660408
+e410838654.757188
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_righteye_2splits.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml149"PBXCp Default\ OpenCV/haarcascades/haarcascade_righteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml9127a97ee67cb841^5ed9c17ee67cb841^---0#0#1#-19%DVTDocumentLocation2@260"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml0034342fddffdf42^835"PBXCp Default\ OpenCV/haarcascades/haarcascade_righteye_2splits.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_righteye_2splits.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_righteye_2splits.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"E5FCD05A-4963-43C7-842A-8BD611AE0052-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_smile.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_smile.xml
+s410838654.701472
+e410838654.793666
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_smile.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_smile.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_smile.xml127"PBXCp Default\ OpenCV/haarcascades/haarcascade_smile.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_smile.xml33a3b37ee67cb841^cf2ecb7ee67cb841^---0#0#1#-19%DVTDocumentLocation2@249"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_smile.xml0034342fddffdf42^802"PBXCp Default\ OpenCV/haarcascades/haarcascade_smile.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_smile.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_smile.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"D1473644-06DD-4EE6-A5EC-B575D5B555E3-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
+CPBXCp Default\ OpenCV/haarcascades/haarcascade_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_upperbody.xml
+s410838654.728052
+e410838654.794625
+r1
+xPBXCp
+xDefault OpenCV/haarcascades/haarcascade_upperbody.xml
+xDerivedData/Default OpenCV/Build/Products/Debug/haarcascade_upperbody.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Default OpenCV/Build/Products/Debug/haarcascade_upperbody.xml135"PBXCp Default\ OpenCV/haarcascades/haarcascade_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_upperbody.xml0c73ba7ee67cb841^9c6ccb7ee67cb841^---0#0#1#-19%DVTDocumentLocation2@253"file:///Users/jonahjoselow/Dropbox/Georgetown/2013%20-%20Fall/HIST%20348%20-%20Art%20Science%20Tech%20in%20the%20Renaissance/Research%20Project/Code/Holy%20God%20It%20Is%20Fixed/DerivedData/Default%20OpenCV/Build/Products/Debug/haarcascade_upperbody.xml0034342fddffdf42^814"PBXCp Default\ OpenCV/haarcascades/haarcascade_upperbody.xml DerivedData/Default\ OpenCV/Build/Products/Debug/haarcascade_upperbody.xml    cd "/Users/jonahjoselow/Dropbox/Georgetown/2013 - Fall/HIST 348 - Art Science Tech in the Renaissance/Research Project/Code/Holy God It Is Fixed"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/Default\ OpenCV/haarcascades/haarcascade_upperbody.xml /Users/jonahjoselow/Dropbox/Georgetown/2013\ -\ Fall/HIST\ 348\ -\ Art\ Science\ Tech\ in\ the\ Renaissance/Research\ Project/Code/Holy\ God\ It\ Is\ Fixed/DerivedData/Default\ OpenCV/Build/Products/Debug36"55EAB5AE-4B3B-4C6E-9690-7B9E836D7BEA-
+b4F1F68E5-9F19-4BF2-92D4-A063CED968FE
+
